@@ -3,6 +3,8 @@
     <words>
       <w>crossentropy</w>
       <w>keras</w>
+      <w>lstm</w>
+      <w>preprocessing</w>
       <w>softmax</w>
       <w>tensorflow</w>
     </words>
