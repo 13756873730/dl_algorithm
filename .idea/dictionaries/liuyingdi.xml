@@ -2,6 +2,7 @@
   <dictionary name="liuyingdi">
     <words>
       <w>crossentropy</w>
+      <w>dtype</w>
       <w>keras</w>
       <w>lstm</w>
       <w>preprocessing</w>
